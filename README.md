@@ -6,4 +6,5 @@ is where the analysis comes into play. For the challenge we have been asked to a
 
 ###n Analysis
 When comparing weather from June and December I think it's vital to look for Key differences in the descriptive statistics. 
-std
+
+![C2E3DD58-A485-4D01-9F66-8A96E1CAF997](https://user-images.githubusercontent.com/112785655/201250599-11791a81-4ca4-4732-b345-456f087d1330.jpeg)
