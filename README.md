@@ -8,7 +8,7 @@ is where the analysis comes into play. For the challenge we have been asked to a
 When comparing weather from June and December I think it's vital to look for Key differences in the descriptive statistics. I will start
 off by providing images of both charts.
 - I used the .describe() function to display descriptive statistics for both June and December. 
-- I used (name_of_df = pd.DataFrame(dec_tp, columns=['date','Month Temps']) to create the DataFrame from the list 
+- I used (name_of_df = pd.DataFrame(dec_tp, columns=['date','Month Temps']) to create the DataFrame from the list.
 
 ![DDDF61DB-1166-45E2-967F-37F0EEA23E42_4_5005_c](https://user-images.githubusercontent.com/112785655/201253480-01a77e05-abf5-40c2-a712-10968fe9c56a.jpeg)
 ![651B5559-137C-4533-B2DD-0CD14F1FBCEC_4_5005_c](https://user-images.githubusercontent.com/112785655/201253490-b6e1c116-e05b-4e55-9b91-7bb84550b555.jpeg)
